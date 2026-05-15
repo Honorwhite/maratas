@@ -47,7 +47,7 @@
         smartSpeed:2500,
         autoplayTimeout: 10000,
         dotsEach:true,
-        dots: false,
+        dots: true,
         nav: false,
         navText: ["<i class='bi bi-arrow-left''></i>", "<i class='bi bi-arrow-right''></i>"],
         responsive: {
@@ -702,3 +702,18 @@
 
 
 })(jQuery);
+
+/* Modern Mobile Menu Toggle (Custom) */
+$(document).ready(function() {
+    $('.mobile-menu-toggle').on('click', function() {
+        $(this).toggleClass('active');
+        $('.mobile-menu-overlay').toggleClass('active');
+        $('body').toggleClass('no-scroll');
+    });
+    
+    $('.mobile-nav li a').on('click', function() {
+        $('.mobile-menu-toggle').removeClass('active');
+        $('.mobile-menu-overlay').removeClass('active');
+        $('body').removeClass('no-scroll');
+    });
+});

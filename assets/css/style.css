@@ -1,56 +1,55 @@
-
 /*===============================================
-Template Name: Arcke - Architecture & Interior Design HTML5 Template
+Template Name: Maratas - Architecture & Interior Design HTML5 Template
 Author:  https://themeforest.net/user/dreamit-solution
 Description: Description
 Version: 1.0.0
-Text Domain: Arcke
+Text Domain: Maratas
 Tags:       architect, architecture, architecture design, architecture portfolio, architecture studio, clean, furniture store, gallery, interior decoration, interior design, interior design portfolio, interior designer, modern, property
 ================================================*/
-    
+
 /*TABLE OF CONTENTS*/
 /*=====================
-01. Arcke top-menu-area Css
-02. Arcke Nav Menu Area Css
-03. Arcke breadcumb Area Css
-04. Arcke section-title Css
-05. Arcke Slider Area Css
-06. Arcke feature-area Css
-07. Arcke tag-area Css
-08. Arcke about area Css
-09. Arcke Prossess Ber Css
-10. Arcke gallery area Css
-11. Arcke counter area Css
-12. Arcke service-area  Css
-13. Arcke project all inner page Css
-14. Arcke service-details-area Css
-15. Arcke arcke-agency-area Css
-16. Arcke pricing-area Css
-17. Arcke project-area Css
-18. Arcke call-do-action-area Css
-19. Arcke contact area Css
-20. Arcke map-section Css
-21. Arcke team-area Css
-22. Arcke team area inner page Css
-23. Arcke testimonial-area Css
-24. Arcke video-area-seven Css
-25. Arcke blog-area Css
-26. Arcke blog-details-area Css
-27. Arcke cascading-area Css
-28. Arcke horizontal-area Css
-29. Arcke horizontal-slider-area Css
-30. Arcke portfolio-masonary-area Css
-31. Arcke portfolio-details-area Css
-32. Arcke spilt-slider-area Css
-33. Arcke brand-area Css
-34. Arcke shop-area CSS
-35. Arcke footer-section CSS
-36. Arcke copyright-area Css
+01. Maratas top-menu-area Css
+02. Maratas Nav Menu Area Css
+03. Maratas breadcumb Area Css
+04. Maratas section-title Css
+05. Maratas Slider Area Css
+06. Maratas feature-area Css
+07. Maratas tag-area Css
+08. Maratas about area Css
+09. Maratas Prossess Ber Css
+10. Maratas gallery area Css
+11. Maratas counter area Css
+12. Maratas service-area  Css
+13. Maratas project all inner page Css
+14. Maratas service-details-area Css
+15. Maratas Maratas-agency-area Css
+16. Maratas pricing-area Css
+17. Maratas project-area Css
+18. Maratas call-do-action-area Css
+19. Maratas contact area Css
+20. Maratas map-section Css
+21. Maratas team-area Css
+22. Maratas team area inner page Css
+23. Maratas testimonial-area Css
+24. Maratas video-area-seven Css
+25. Maratas blog-area Css
+26. Maratas blog-details-area Css
+27. Maratas cascading-area Css
+28. Maratas horizontal-area Css
+29. Maratas horizontal-slider-area Css
+30. Maratas portfolio-masonary-area Css
+31. Maratas portfolio-details-area Css
+32. Maratas spilt-slider-area Css
+33. Maratas brand-area Css
+34. Maratas shop-area CSS
+35. Maratas footer-section CSS
+36. Maratas copyright-area Css
 =======================*/
 
 
 /*================================
-<-- Arcke top-menu-area Css -->
+<-- Maratas top-menu-area Css -->
 ==================================*/
 
 .top-menu-area {
@@ -93,7 +92,7 @@ Tags:       architect, architecture, architecture design, architecture portfolio
 }
 
 /*================================
-<--  Arcke Nav Menu Area Css -->
+<--  Maratas Nav Menu Area Css -->
 ==================================*/
 
 .hendre_nav_manu {
@@ -105,7 +104,7 @@ Tags:       architect, architecture, architecture design, architecture portfolio
 }
 
 .hendre_nav_manu.two {
-    background: #fff!important;
+    background: #fff !important;
 }
 
 .hendre_nav_manu.three {
@@ -124,7 +123,7 @@ Tags:       architect, architecture, architecture design, architecture portfolio
 }
 
 .sticky.hendre_nav_manu.four {
-    background: inherit!important;
+    background: inherit !important;
 }
 
 .hendre_nav_manu.four .nav-btn.navSidebar-button i {
@@ -160,7 +159,7 @@ Tags:       architect, architecture, architecture design, architecture portfolio
 }
 
 .sticky.hendre_nav_manu.style-two .hendre_menu>ul>li>a {
-    color: #fff!important;
+    color: #fff !important;
 }
 
 .hendre_nav_manu.transparent_menu {
@@ -177,7 +176,7 @@ Tags:       architect, architecture, architecture design, architecture portfolio
     width: 100%;
     -webkit-box-shadow: 0 2px 5px -2px rgba(0, 0, 0, 0.1);
     box-shadow: 0 2px 5px -2px rgba(0, 0, 0, 0.1);
-    background: #101010!important;
+    background: #101010 !important;
     transition: .5s;
     z-index: 9;
     animation: 500ms running fadeInUp;
@@ -260,12 +259,12 @@ Tags:       architect, architecture, architecture design, architecture portfolio
     top: 2px;
 }
 
-.header-button a:hover{
+.header-button a:hover {
     color: #D7AB79;
 }
 
 .sticky .hendre_nav_manu.two {
-    background: #fff!important;
+    background: #fff !important;
 }
 
 
@@ -285,7 +284,7 @@ Tags:       architect, architecture, architecture design, architecture portfolio
 }
 
 
-.sticky .hendre_nav_manu.left-sidebar{
+.sticky .hendre_nav_manu.left-sidebar {
     left: 0;
     margin: auto;
     position: fixed !important;
@@ -293,7 +292,7 @@ Tags:       architect, architecture, architecture design, architecture portfolio
     width: 100%;
     -webkit-box-shadow: 0 2px 5px -2px rgba(0, 0, 0, 0.1);
     box-shadow: 0 2px 5px -2px rgba(0, 0, 0, 0.1);
-    background: #f00!important;
+    background: #f00 !important;
     transition: .5s;
     z-index: 9;
     animation: 500ms running fadeInUp;
@@ -439,7 +438,7 @@ Tags:       architect, architecture, architecture design, architecture portfolio
 }
 
 .sticky.hendre_nav_manu.toggle-menu {
-    border-bottom: inherit!important;
+    border-bottom: inherit !important;
 }
 
 .hendre_nav_manu.toggle-menu .hendre_nav_manu.left-sidebar {
@@ -449,7 +448,7 @@ Tags:       architect, architecture, architecture design, architecture portfolio
     width: 17%;
     -webkit-box-shadow: 0 2px 5px -2px rgba(0, 0, 0, 0.1);
     box-shadow: 0 2px 5px -2px rgba(0, 0, 0, 0.1);
-    background: #101010!important;
+    background: #101010 !important;
     transition: .5s;
     z-index: 999;
     animation: 500ms running fadeInUp;
@@ -588,7 +587,10 @@ nav.hendre_menu span {
     transition: .5s;
 }
 
-.hendre_menu ul .sub-menu li:hover>a, .hendre_menu ul .sub-menu .sub-menu li:hover>a, .hendre_menu ul .sub-menu .sub-menu .sub-menu li:hover>a, .hendre_menu ul .sub-menu .sub-menu .sub-menu .sub-menu li:hover>a {
+.hendre_menu ul .sub-menu li:hover>a,
+.hendre_menu ul .sub-menu .sub-menu li:hover>a,
+.hendre_menu ul .sub-menu .sub-menu .sub-menu li:hover>a,
+.hendre_menu ul .sub-menu .sub-menu .sub-menu .sub-menu li:hover>a {
     background: #D7AB79;
     color: #fff !important;
 }
@@ -637,8 +639,8 @@ ul.sub-menu li a span {
     transition: .5s;
 }
 
-ul.sub-menu li:hover a span{
-    background: rgba(255,255,255, 0.20);
+ul.sub-menu li:hover a span {
+    background: rgba(255, 255, 255, 0.20);
 }
 
 /* sub menu 4 */
@@ -722,29 +724,29 @@ ul.sub-menu li:hover a span{
     padding: 0px 0px 0px 20px;
 }
 
- .sticky .hendre_nav_manu.five  {
-    background: #101010!important;
+.sticky .hendre_nav_manu.five {
+    background: #101010 !important;
     border-bottom: inherit;
 }
 
-.head-btn a:hover{
-    color: #101010 ;
+.head-btn a:hover {
+    color: #101010;
 }
 
-.head-btn a:hover::after{
+.head-btn a:hover::after {
     transform: scale(1);
 }
 
 .hendre_nav_manu.five.upper .hendre_menu>ul>li>a {
-    color: #101010!important;
+    color: #101010 !important;
 }
 
 .hendre_nav_manu.five.upper .hendre_menu>ul>li>a:hover {
-    color: #D6AB79!important;
+    color: #D6AB79 !important;
 }
 
 .sticky.hendre_nav_manu.five.upper {
-    background: #EDEDEB!important;
+    background: #EDEDEB !important;
     border-bottom: 1px solid #DDDDDD;
     padding: 0px 0px 0px 2px;
 }
@@ -1020,7 +1022,7 @@ ul.social-box li a:hover {
 }
 
 /*--==============================================->
-<!-- Arcke breadcumb Area Css -->
+<!-- Maratas breadcumb Area Css -->
 ==================================================-*/
 
 .breadcumb-area {
@@ -1089,7 +1091,7 @@ ul.social-box li a:hover {
 }
 
 /*<!-- ============================================================== -->
-<!-- Arcke section-title Css -->
+<!-- Maratas section-title Css -->
 <!-- ============================================================== -->*/
 
 .section-title {
@@ -1138,7 +1140,7 @@ ul.social-box li a:hover {
     position: absolute;
     left: -64px;
     right: 0;
-    top: 86px!important;
+    top: 86px !important;
     width: 10px;
     height: 2px;
     background-color: #303841;
@@ -1228,7 +1230,7 @@ ul.social-box li a:hover {
 }
 
 /*<!-- ============================================================== -->
-<!-- Arcke Slider Area Css -->
+<!-- Maratas Slider Area Css -->
 <!-- ============================================================== -->*/
 
 .slider-area.one {
@@ -1258,10 +1260,12 @@ ul.social-box li a:hover {
     text-align: center;
     opacity: 0.2;
 }
+
 .slider-area.one.upper .row.bor-der::before {
     background: #EEEEEE;
-     opacity: 1;
+    opacity: 1;
 }
+
 .slider-area.one .single-slider-left {
     transition: .5s;
     position: relative;
@@ -1350,7 +1354,7 @@ ul.social-box li a:hover {
     opacity: 0.3;
 }
 
-.slider-area.one .slider-title h1 span{
+.slider-area.one .slider-title h1 span {
     color: #D9AB7A;
 }
 
@@ -1424,62 +1428,78 @@ ul.social-box li a:hover {
 .slider-area.one .slider-icon-list {
     position: absolute;
     top: 50%;
-    left: 30px;
-}
-
-.slider-area.one .slider-icon-list ul {
-    margin-top: 45px;
-}
-
-.slider-area.one .slider-icon-list ul li {
-    display: block;
-    list-style: none;
-    margin-bottom: 5px;
-}
-
-.slider-area.one .slider-icon-list ul li a {
-    display: inline-block;
-    font-size: 15px;
-    color: #fff;
-    transition: .5s;
+    left: 40px;
+    transform: translateY(-50%);
+    z-index: 10;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .slider-area.one .slider-icon-list h5 {
-    font-size: 15px;
-    transform: rotate(90deg);
-    margin: 0 0 0 -41px;
+    font-size: 14px;
+    color: #fff;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    margin: 0 0 40px 0;
     position: relative;
-    z-index: 1;
+    white-space: nowrap;
 }
 
 .slider-area.one .slider-icon-list h5::before {
     position: absolute;
     content: "";
-    top: 5px;
-    left: -96px;
-    height: 1px;
-    width: 80px;
-    background: #fff;
-    opacity: 0.3;
+    bottom: -30px;
+    left: 50%;
+    transform: translateX(-50%);
+    height: 50px;
+    width: 1px;
+    background: rgba(255, 255, 255, 0.3);
+    display: none;
+    /* Hid it for now as we have icons below */
 }
 
-.slider-area.one .slider-icon-list ul li a:hover{
-    color: #CBA273;
+.slider-area.one .slider-icon-list ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
-.slider-area.one .slider-button a:hover{
+.slider-area.one .slider-icon-list ul li {
+    margin: 8px 0;
+}
+
+.slider-area.one .slider-icon-list ul li a {
+    color: #fff;
+    font-size: 16px;
+    transition: 0.3s;
+}
+
+.slider-area.one .slider-icon-list ul li a:hover {
+    color: #d8ab7a;
+}
+
+
+
+.slider-area.one .slider-button a:hover {
     color: #D7AB79;
 }
 
-.slider-area.one .slider-button a:hover::before{
+.slider-area.one .slider-button a:hover::before {
     background: #D7AB79;
 }
 
-.slider-area.one .slider-button a:hover::after{
+.slider-area.one .slider-button a:hover::after {
     background: #D7AB79;
 }
 
-.slider-area.one .slider-button:hover::before{
+.slider-area.one .slider-button:hover::before {
     border: 1px solid #D7AB79;
 }
 
@@ -1607,19 +1627,19 @@ ul.social-box li a:hover {
     background: #333;
 }
 
-.slider-area.one.upper .slider-button a:hover{
+.slider-area.one.upper .slider-button a:hover {
     color: #D7AB79;
 }
 
-.slider-area.one.upper .slider-button a:hover::before{
+.slider-area.one.upper .slider-button a:hover::before {
     background: #D7AB79;
 }
 
-.slider-area.one.upper .slider-button a:hover::after{
+.slider-area.one.upper .slider-button a:hover::after {
     background: #D7AB79;
 }
 
-.slider-area.one.upper .slider-button:hover::before{
+.slider-area.one.upper .slider-button:hover::before {
     border: 1px solid #D7AB79;
 }
 
@@ -1643,7 +1663,7 @@ ul.social-box li a:hover {
 }
 
 .slider_content {
-    background: rgba(17,17,17,.8);
+    background: rgba(17, 17, 17, .8);
     width: 39%;
     border: 1px solid #D7AB79;
     padding: 30px 40px 25px;
@@ -1713,17 +1733,17 @@ ul.social-box li a:hover {
     transition: .5s;
 }
 
-.owl-prev:hover{
+.owl-prev:hover {
     color: #fff;
-    background: #D9AB7A ;
+    background: #D9AB7A;
 }
 
-.owl-next:hover{
+.owl-next:hover {
     color: #fff;
-    background: #D9AB7A ;
+    background: #D9AB7A;
 }
 
-.owl-item.active .slider_content{
+.owl-item.active .slider_content {
     animation: 2.9s running fadeInUp;
 }
 
@@ -1778,8 +1798,8 @@ ul.social-box li a:hover {
     transition: .5s;
 }
 
-.slider_area_five .single-slider_icon-list ul li a:hover{
-     background: #D7AB79;
+.slider_area_five .single-slider_icon-list ul li a:hover {
+    background: #D7AB79;
     color: #fff;
 }
 
@@ -1860,20 +1880,20 @@ ul.social-box li a:hover {
     z-index: -1;
 }
 
-.slider_area_five .home-five-button a:hover{
+.slider_area_five .home-five-button a:hover {
     color: #fff;
 }
 
-.slider_area_five .home-five-btn a:hover{
+.slider_area_five .home-five-btn a:hover {
     color: #fff;
 }
 
-.slider_area_five .home-five-button a:hover::before{
+.slider_area_five .home-five-button a:hover::before {
     width: 100%;
     left: 0;
 }
 
-.slider_area_five .home-five-btn a:hover::before{
+.slider_area_five .home-five-btn a:hover::before {
     width: 100%;
     left: 0;
 }
@@ -1933,7 +1953,7 @@ ul.social-box li a:hover {
     margin-top: 150px;
 }
 
-.slider-area.one.left-sidebar  .single-slider::after {
+.slider-area.one.left-sidebar .single-slider::after {
     background: inherit;
 }
 
@@ -2051,7 +2071,7 @@ ul.social-box li a:hover {
     line-height: 30px;
     color: #ffffff;
     font-weight: 600;
-    margin: 0  0 0;
+    margin: 0 0 0;
     padding: 14px 30px;
     background: #D8AB7A;
     position: relative;
@@ -2105,13 +2125,13 @@ ul.social-box li a:hover {
     z-index: -1;
 }
 
-.owl-item.active .slider-shape{
+.owl-item.active .slider-shape {
     animation: 1.9s running fadeInUp;
     top: 0;
 }
 
 /**====================================================
-<-- Arcke feature-area Css -->
+<-- Maratas feature-area Css -->
 ======================================================**/
 
 .feature-area.one {
@@ -2198,9 +2218,11 @@ ul.social-box li a:hover {
     transition: .5s;
     margin-left: -103px;
 }
+
 .blog-area.one.upper.grid::before {
     display: none;
 }
+
 .feature-area.one .feature-button::before {
     position: absolute;
     content: "";
@@ -2242,35 +2264,35 @@ ul.social-box li a:hover {
     border: 1px solid #D9AA7C;
 }
 
-.feature-area.one .single-feature-box:hover .feature-button a::before{
+.feature-area.one .single-feature-box:hover .feature-button a::before {
     background: #D9AA7C;
 }
 
-.feature-area.one .single-feature-box:hover .feature-button a::after{
+.feature-area.one .single-feature-box:hover .feature-button a::after {
     background: #D9AA7C;
 }
 
-.feature-area.one .single-feature-box:hover .feature-button a{
+.feature-area.one .single-feature-box:hover .feature-button a {
     margin-left: 0px;
 }
 
-.feature-area.one .feature-content h3:hover{
+.feature-area.one .feature-content h3:hover {
     color: #D9AA7C;
 }
 
-.feature-area.one .single-feature-box:hover .feature-content h4{
+.feature-area.one .single-feature-box:hover .feature-content h4 {
     color: #fff;
 }
 
-.feature-area.one .single-feature-box:hover .feature-button a{
+.feature-area.one .single-feature-box:hover .feature-button a {
     color: #D9AA7C;
 }
 
-.feature-area.one .single-feature-box:hover .feature-content h4::before{
+.feature-area.one .single-feature-box:hover .feature-content h4::before {
     background: #fff;
 }
 
-.feature-area.one .single-feature-box:hover .feature-content h4::after{
+.feature-area.one .single-feature-box:hover .feature-content h4::after {
     background: #fff;
 }
 
@@ -2324,7 +2346,7 @@ ul.social-box li a:hover {
 }
 
 /**====================================================
-<-- Arcke tag-area Css -->
+<-- Maratas tag-area Css -->
 ======================================================**/
 
 .tag-area.one {
@@ -2347,7 +2369,7 @@ ul.social-box li a:hover {
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    gap:0px;
+    gap: 0px;
 }
 
 .tag-area.one .marquee-block {
@@ -2369,19 +2391,19 @@ ul.social-box li a:hover {
 
 .tag-area.one .marquee-block .content-box {
     position: relative;
-    margin-right:0px;
+    margin-right: 0px;
 }
 
 .tag-area.one .marquee-block .content-box:last-child {
-    margin-right:0px;
+    margin-right: 0px;
 }
 
 .tag-area.one .marquee-block .content-box:last-child::before {
     display: none;
 }
 
-.tag-area.one .marquee-block .content-box .title{
-    margin:0;
+.tag-area.one .marquee-block .content-box .title {
+    margin: 0;
 }
 
 .tag-area.one .marquee-block .content-box h6.title {
@@ -2393,34 +2415,37 @@ ul.social-box li a:hover {
     transition: 0.5s;
 }
 
-.tag-area.one .marquee-block .content-box h6.title:hover{
-    color:#D8AB7A;
+.tag-area.one .marquee-block .content-box h6.title:hover {
+    color: #D8AB7A;
 }
 
 
-  @-webkit-keyframes scroll {
+@-webkit-keyframes scroll {
     0% {
-      -webkit-transform: translateX(0);
-      transform: translateX(0);
+        -webkit-transform: translateX(0);
+        transform: translateX(0);
     }
+
     100% {
-      -webkit-transform: translateX(calc(-100% - var(--gap)));
-      transform: translateX(calc(-100% - var(--gap)));
+        -webkit-transform: translateX(calc(-100% - var(--gap)));
+        transform: translateX(calc(-100% - var(--gap)));
     }
-  }
-  @keyframes scroll {
+}
+
+@keyframes scroll {
     0% {
-      -webkit-transform: translateX(0);
-      transform: translateX(0);
+        -webkit-transform: translateX(0);
+        transform: translateX(0);
     }
+
     100% {
-      -webkit-transform: translateX(calc(-100% - var(--gap)));
-      transform: translateX(calc(-100% - var(--gap)));
+        -webkit-transform: translateX(calc(-100% - var(--gap)));
+        transform: translateX(calc(-100% - var(--gap)));
     }
-  }
+}
 
 /**====================================================
-<--  Arcke about area Css -->
+<--  Maratas about area Css -->
 ======================================================**/
 
 .about-area.one {
@@ -2429,6 +2454,7 @@ ul.social-box li a:hover {
     position: relative;
     z-index: 1;
 }
+
 .about-area.one::before {
     position: absolute;
     content: "";
@@ -2441,9 +2467,11 @@ ul.social-box li a:hover {
     background-size: cover;
     background-position: center center;
 }
+
 .about-area.one.upper::before {
     background: url(../images/about/about-bg.png);
 }
+
 .about-area.one .about-shape {
     position: absolute;
     top: 14%;
@@ -2540,7 +2568,7 @@ ul.social-box li a:hover {
     z-index: -1;
 }
 
-.about-area.one .single-about-left:hover .about-thumb::before{
+.about-area.one .single-about-left:hover .about-thumb::before {
     height: 89%;
     opacity: 0.4;
 }
@@ -2557,7 +2585,7 @@ ul.social-box li a:hover {
     color: #101010;
 }
 
-.about-area.one.upper .appoinment-tab .tabs li.boder a::before {
+.about-area.one.upper .appoinment-tab .tabs li.current a::before {
     background: #101010;
 }
 
@@ -2578,7 +2606,7 @@ ul.social-box li a:hover {
 }
 
 .about-area.one.upper span.fill {
-    background: #101010!important;
+    background: #101010 !important;
     border-radius: 5px;
 }
 
@@ -2624,7 +2652,7 @@ ul.social-box li a:hover {
     z-index: 1;
 }
 
-.appoinment-tab .tabs li.boder a::before {
+.appoinment-tab .tabs li.current a::before {
     position: absolute;
     bottom: 0;
     left: 0;
@@ -2692,7 +2720,7 @@ ul.social-box li a:hover {
 }
 
 /**====================================================
-<--  Arcke Prossess Ber Css -->
+<--  Maratas Prossess Ber Css -->
 ======================================================**/
 .prossess-ber-plugin span {
     font-size: 15px;
@@ -2743,7 +2771,7 @@ ul.social-box li a:hover {
 }
 
 span.fill {
-    background: #fff!important;
+    background: #fff !important;
     border-radius: 5px;
 }
 
@@ -2805,10 +2833,10 @@ span.fill {
     text-align: center;
 }
 
-.process-area-seven .single-process-box:hover .single-process-number h4{
+.process-area-seven .single-process-box:hover .single-process-number h4 {
     color: #fff;
     background: #101010;
-} 
+}
 
 /** Style Three**/
 
@@ -2914,7 +2942,7 @@ span.fill {
 
 .about_area_three .singles_abouts_box {
     background: #101010;
-    padding: 25px 20px 25px  35px;
+    padding: 25px 20px 25px 35px;
     position: relative;
     z-index: 1;
     margin-bottom: 30px;
@@ -2983,12 +3011,12 @@ span.fill {
     transform: scale(1);
 }
 
-.about_area_three .singles_abouts_box:hover::before{
+.about_area_three .singles_abouts_box:hover::before {
     width: 100%;
     left: 0;
 }
 
-.about_area_three .about_btn a:hover{
+.about_area_three .about_btn a:hover {
     color: #fff;
 }
 
@@ -3094,7 +3122,7 @@ span.fill {
 
 .about_area_four .singles_abouts_box {
     background: #fff;
-    padding: 25px 20px 25px  35px;
+    padding: 25px 20px 25px 35px;
     position: relative;
     z-index: 1;
     margin-bottom: 30px;
@@ -3163,7 +3191,7 @@ span.fill {
     transform: scale(1);
 }
 
-.about_area_four .singles_abouts_box:hover::before{
+.about_area_four .singles_abouts_box:hover::before {
     width: 100%;
     left: 0;
 }
@@ -3271,11 +3299,11 @@ span.fill {
     margin: 0 0 0;
 }
 
-.about_area_five .about_button a:hover{
-    color: #101010 ;
+.about_area_five .about_button a:hover {
+    color: #101010;
 }
 
-.about_area_five .about_button a:hover::after{
+.about_area_five .about_button a:hover::after {
     transform: scale(1);
 }
 
@@ -3296,7 +3324,7 @@ span.fill {
     padding: 38px 28px;
 }
 
-.about_area_five.upper .about_button a:hover{
+.about_area_five.upper .about_button a:hover {
     color: #fff;
 }
 
@@ -3308,7 +3336,7 @@ span.fill {
     padding: 100px 0 100px;
 }
 
-.about-area-seven .appoinment-tab .tabs li a{
+.about-area-seven .appoinment-tab .tabs li a {
     color: #101010;
 }
 
@@ -3346,11 +3374,11 @@ span.fill {
 }
 
 .about-area-seven span.fill {
-    background: #D8AB7A!important;
+    background: #D8AB7A !important;
     border-radius: 5px;
 }
 
-.about-area-seven .appoinment-tab .tabs li.boder a::before {
+.about-area-seven .appoinment-tab .tabs li.current a::before {
     background: #D8AB7A;
 }
 
@@ -3377,15 +3405,15 @@ span.fill {
     left: 10px;
 }
 
-.about-area-seven .about-button a:hover{
+.about-area-seven .about-button a:hover {
     color: #D8AB7A;
 }
 
-.about-area-seven .appoinment-tab .tabs li a:hover{
+.about-area-seven .appoinment-tab .tabs li a:hover {
     color: #D8AB7A;
 }
 
-.about-area-seven .appoinment-tab .tabs li a:hover::after{
+.about-area-seven .appoinment-tab .tabs li a:hover::after {
     width: 80%;
     opacity: 1;
 }
@@ -3400,7 +3428,7 @@ span.fill {
 
 
 /**====================================================
-<-- Arcke gallery area Css -->
+<-- Maratas gallery area Css -->
 ======================================================**/
 
 .gallery_area {
@@ -3522,22 +3550,22 @@ span.fill {
     right: 26px;
 }
 
-.gallery_area .single_gallery_box:hover .single_gallery_content{
+.gallery_area .single_gallery_box:hover .single_gallery_content {
     left: 40%;
     opacity: 1;
 }
 
-.gallery_area .singles_gallery:hover .single_gallery_content{
+.gallery_area .singles_gallery:hover .single_gallery_content {
     left: 20%;
     opacity: 1;
 }
 
-.gallery_area .single_gallery:hover .single_gallery_content{
+.gallery_area .single_gallery:hover .single_gallery_content {
     left: 20%;
     opacity: 1;
 }
 
-.gallery_area .singles_gallerys:hover .single_gallery_content{
+.gallery_area .singles_gallerys:hover .single_gallery_content {
     left: 20%;
     opacity: 1;
 }
@@ -3548,7 +3576,7 @@ span.fill {
 }
 
 /**====================================================
-<-- Arcke counter area Css -->
+<-- Maratas counter area Css -->
 ======================================================**/
 .counter-area.one {
     background: #161616;
@@ -3559,7 +3587,7 @@ span.fill {
 
 .counter-area.one .row.bg-col {
     background: #1E1E1E;
-    padding: 0 0  100px;
+    padding: 0 0 100px;
 }
 
 .counter-area.one .counter-single-item-inner {
@@ -3630,20 +3658,21 @@ span.fill {
     text-align: right;
 }
 
-.counter-area.one .counter-single-item-inner:hover .counter-text h4::before{
+.counter-area.one .counter-single-item-inner:hover .counter-text h4::before {
     width: 20%;
-} 
+}
 
 .counter-area.one.upper {
     background: #fff;
 }
+
 .counter-area.one.upper.inner {
     padding: 140px 0 120px;
 }
 
 .counter-area.one.upper .row.bg-col {
     background: #F8F8F8;
-    padding: 0 0  100px;
+    padding: 0 0 100px;
 }
 
 .counter-area.one.upper .counter-text h1 {
@@ -3689,7 +3718,7 @@ span.fill {
     width: 1px;
     height: 0%;
     transition: .5s;
-    background-image: linear-gradient(to top, #151515 , #D9AB7A);
+    background-image: linear-gradient(to top, #151515, #D9AB7A);
 }
 
 .counter-single-item-inner::after {
@@ -3700,7 +3729,7 @@ span.fill {
     width: 1px;
     height: 0%;
     transition: .5s;
-    background-image: linear-gradient(to top, #151515 , #D9AB7A);
+    background-image: linear-gradient(to top, #151515, #D9AB7A);
 }
 
 .counter_area_three .counter-text p {
@@ -3712,15 +3741,15 @@ span.fill {
     margin: 0 0 0;
 }
 
-.counter_area_three .counter-single-item-inner:hover{
+.counter_area_three .counter-single-item-inner:hover {
     border-top: 1px solid #D9AB7A;
 }
 
-.counter_area_three .counter-single-item-inner:hover::before{
+.counter_area_three .counter-single-item-inner:hover::before {
     height: 100%;
 }
 
-.counter_area_three .counter-single-item-inner:hover::after{
+.counter_area_three .counter-single-item-inner:hover::after {
     height: 100%;
 }
 
@@ -3746,11 +3775,11 @@ span.fill {
 }
 
 .counter_area_three.upper .counter-single-item-inner::before {
-    background-image: linear-gradient(to top, #fff , #D9AB7A);
+    background-image: linear-gradient(to top, #fff, #D9AB7A);
 }
 
 .counter_area_three.upper .counter-single-item-inner::after {
-    background-image: linear-gradient(to top, #fff , #D9AB7A);
+    background-image: linear-gradient(to top, #fff, #D9AB7A);
 }
 
 .counter_area_three.upper .counter-single-item-inner:hover {
@@ -3758,7 +3787,7 @@ span.fill {
 }
 
 /*<!-- ============================================================== -->
-<!-- Arcke service-area  Css -->
+<!-- Maratas service-area  Css -->
 <!-- ============================================================== -->*/
 
 .service-area.one {
@@ -3767,6 +3796,7 @@ span.fill {
     position: relative;
     z-index: 1;
 }
+
 .service-area.one::before {
     position: absolute;
     content: "";
@@ -3916,43 +3946,45 @@ span.fill {
 
 /* Service Hover */
 
-.service-area.one .service-thumb img:hover{
+.service-area.one .service-thumb img:hover {
     transform: skew(7deg, 7deg);
 }
 
-.service-area.one .single-service-box:hover .service-thumb img{
+.service-area.one .single-service-box:hover .service-thumb img {
     opacity: 1;
 }
 
-.service-area.one .single-service-box:hover .service-thumb{
+.service-area.one .single-service-box:hover .service-thumb {
     top: -73px;
 }
 
-.service-area.one .single-service-box:hover .service-button a{
+.service-area.one .single-service-box:hover .service-button a {
     color: #D7A978;
 }
 
-.service-area.one .single-service-box:hover .service-button a::before{
+.service-area.one .single-service-box:hover .service-button a::before {
     background: #D7A978;
 }
 
-.service-area.one .single-service-box:hover .service-button a::after{
+.service-area.one .single-service-box:hover .service-button a::after {
     background: #D7A978;
 }
 
-.service-area.one .single-service-box:hover .service-button::before{
+.service-area.one .single-service-box:hover .service-button::before {
     border: 1px solid #D7A978;
 }
 
 .service-area.one.upper {
     background: #fff;
 }
+
 .service-area.one.upper::before {
     background: url(../images/service/server-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
 }
+
 .service-area.one.upper .single-service-box {
     border-top: 1px solid #E9EBEC;
     border-bottom: 1px solid #E9EBEC;
@@ -4084,22 +4116,22 @@ span.fill {
     text-align: center;
 }
 
-.service_area_five .single_service_box:hover::before{
+.service_area_five .single_service_box:hover::before {
     transform: scale(1);
     opacity: 0.1;
 }
 
-.service_area_five .single_service_box:hover .service_number h1{
+.service_area_five .single_service_box:hover .service_number h1 {
     -webkit-text-stroke-color: #D7AB79;
     -webkit-text-stroke-width: 2px;
     opacity: 1;
 }
 
-.service_area_five .service-top-button a:hover{
-    color: #101010 ;
+.service_area_five .service-top-button a:hover {
+    color: #101010;
 }
 
-.service_area_five .service-top-button a:hover::after{
+.service_area_five .service-top-button a:hover::after {
     transform: scale(1);
 }
 
@@ -4141,7 +4173,7 @@ span.fill {
 
 
 /*<!-- ============================================================== -->
-<!-- Arcke project all inner page Css -->
+<!-- Maratas project all inner page Css -->
 <!-- ============================================================== -->*/
 
 .service-area-inner-page {
@@ -4310,37 +4342,37 @@ span.fill {
     height: 100%;
 }
 
-.service-area-inner-page .single-inner-service-box:hover .inner-service-title h3{
+.service-area-inner-page .single-inner-service-box:hover .inner-service-title h3 {
     color: #fff;
 }
 
-.service-area-inner-page .single-inner-service-box:hover .inner-service-title p{
+.service-area-inner-page .single-inner-service-box:hover .inner-service-title p {
     color: #fff;
 }
 
-.service-area-inner-page .single-inner-service-box:hover .inner-service-title h3::before{
+.service-area-inner-page .single-inner-service-box:hover .inner-service-title h3::before {
     background: #D7AB79;
 }
 
-.service-area-inner-page .single-inner-service-box:hover{
+.service-area-inner-page .single-inner-service-box:hover {
     padding: 45px 30px 20px;
 }
 
-.service-area-inner-page .single-inner-service-box:hover .inner-service-button{
-   opacity: 1;
-   margin-top: 20px;
+.service-area-inner-page .single-inner-service-box:hover .inner-service-button {
+    opacity: 1;
+    margin-top: 20px;
 }
 
-.service-area-inner-page .single-inner-service-box:hover .inner-service-button a{
-   color: #fff;
+.service-area-inner-page .single-inner-service-box:hover .inner-service-button a {
+    color: #fff;
 }
 
-.service-area-inner-page .single-inner-service-box:hover .inner-service-number h1{
-   color: #fff;
+.service-area-inner-page .single-inner-service-box:hover .inner-service-number h1 {
+    color: #fff;
 }
 
-.service-area-inner-page .single-inner-service-box:hover .inner-service-tmb img{
-   filter: none;
+.service-area-inner-page .single-inner-service-box:hover .inner-service-tmb img {
+    filter: none;
 }
 
 /* Style Seven */
@@ -4425,20 +4457,20 @@ span.fill {
     right: 0;
 }
 
-.service-area-seven .service-design-list ul li:hover{
+.service-area-seven .service-design-list ul li:hover {
     color: #D8A97B;
 }
 
-.service-area-seven .service-design-list ul li:hover span{
+.service-area-seven .service-design-list ul li:hover span {
     color: #101010;
 }
 
-.service-area-seven .single-service-btn a:hover::before{
+.service-area-seven .single-service-btn a:hover::before {
     transform: scale(1);
 }
 
 /*<!-- ============================================================== -->
-<!-- Arcke service-details-area Css -->
+<!-- Maratas service-details-area Css -->
 <!-- ============================================================== -->*/
 
 .service-details-area {
@@ -4470,7 +4502,7 @@ span.fill {
     margin: 0 0 30px;
 }
 
-.service-details-area .service-steps-list h3{
+.service-details-area .service-steps-list h3 {
     font-size: 20px;
     line-height: 58px;
     color: #d8ab7a;
@@ -4518,10 +4550,10 @@ span.fill {
 
 
 /*<!-- ============================================================== -->
-<!-- Arcke arcke-agency-area Css -->
+<!-- Maratas Maratas-agency-area Css -->
 <!-- ============================================================== -->*/
 
-.arcke-agency-area {
+.Maratas-agency-area {
     background: url(../images/resource/agency.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -4531,7 +4563,7 @@ span.fill {
     z-index: 1;
 }
 
-.arcke-agency-area .arcke-agency h2 {
+.Maratas-agency-area .Maratas-agency h2 {
     font-size: 50px;
     line-height: 58px;
     color: #ffffff;
@@ -4540,17 +4572,17 @@ span.fill {
     text-align: center;
 }
 
-.arcke-agency-area .arcke-agency h2 span {
+.Maratas-agency-area .Maratas-agency h2 span {
     color: #D9AB7A;
 }
 
-.arcke-agency-area .arcke-agency-button {
+.Maratas-agency-area .Maratas-agency-button {
     position: relative;
     z-index: 1;
     text-align: center;
 }
 
-.arcke-agency-area .arcke-agency-button a {
+.Maratas-agency-area .Maratas-agency-button a {
     display: inline-block;
     font-size: 15px;
     padding: 12px 42px;
@@ -4565,7 +4597,8 @@ span.fill {
     animation: 1s 1.3s fadeInUp both;
 }
 
-.arcke-agency-area .arcke-agency-button a::after, .arcke-agency-button a::before {
+.Maratas-agency-area .Maratas-agency-button a::after,
+.Maratas-agency-button a::before {
     position: absolute;
     content: "";
     transform: rotate(0);
@@ -4578,38 +4611,38 @@ span.fill {
     transition: all .7s ease-out;
 }
 
-.arcke-agency-area .arcke-agency-button a::before {
+.Maratas-agency-area .Maratas-agency-button a::before {
     top: -7px;
     left: -7px;
     border-width: 0 1px 1px 0;
     border-color: #cda274;
 }
 
-.arcke-agency-area .arcke-agency-button a::after {
+.Maratas-agency-area .Maratas-agency-button a::after {
     bottom: -7px;
     right: -7px;
     border-width: 1px 0 0 1px;
     border-color: #cda274;
 }
 
-.arcke-agency-area .arcke-agency-button a:hover::before {
+.Maratas-agency-area .Maratas-agency-button a:hover::before {
     left: 100%;
     transform: rotate(90deg);
 }
 
-.arcke-agency-area .arcke-agency-button a:hover::after {
+.Maratas-agency-area .Maratas-agency-button a:hover::after {
     right: 100%;
     transform: rotate(90deg);
 }
 
-.arcke-agency-area .arcke-agency-button a:hover::before {
+.Maratas-agency-area .Maratas-agency-button a:hover::before {
     left: 100%;
     transform: rotate(90deg);
 }
 
 
 /*<!-- ============================================================== -->
-<!-- Arcke pricing-area Css -->
+<!-- Maratas pricing-area Css -->
 <!-- ============================================================== -->*/
 
 .pricing-area {
@@ -4674,59 +4707,57 @@ span.fill {
     transition: .9s;
 }
 
-.pricing-area .single-pricing-box.style_two{
+.pricing-area .single-pricing-box.style_two {}
 
-}
-
-.pricing-area .single-pricing-box.style_two::before{
+.pricing-area .single-pricing-box.style_two::before {
     background: #101010;
 }
 
-.pricing-area .single-pricing-box.style_two::after{
+.pricing-area .single-pricing-box.style_two::after {
     background: #101010;
 }
 
-.pricing-area .single-pricing-box.style_two .pricing-inner-box::before{
+.pricing-area .single-pricing-box.style_two .pricing-inner-box::before {
     background: #101010;
 }
 
-.pricing-area .single-pricing-box.style_two .pricing-inner-box::after{
+.pricing-area .single-pricing-box.style_two .pricing-inner-box::after {
     background: #101010;
 }
 
-.pricing-area .single-pricing-box.style_two .pricing-button::before{
+.pricing-area .single-pricing-box.style_two .pricing-button::before {
     width: 100%;
     opacity: 1;
     left: 0;
 }
 
-.pricing-area .single-pricing-box.style_two .pricing-button a{
+.pricing-area .single-pricing-box.style_two .pricing-button a {
     color: #fff;
 }
 
-.pricing-area .single-pricing-box.style_two .single-pricing-content h3{
+.pricing-area .single-pricing-box.style_two .single-pricing-content h3 {
     color: #fff;
 }
 
-.pricing-area .single-pricing-box.style_two .single-pricing-content p{
+.pricing-area .single-pricing-box.style_two .single-pricing-content p {
     color: #fff;
 }
 
-.pricing-area .single-pricing-box.style_two .pricing-plan-list ul li{
+.pricing-area .single-pricing-box.style_two .pricing-plan-list ul li {
     color: #fff;
 }
 
-.pricing-area .single-pricing-box.style_two .pricing-btn-shap{
+.pricing-area .single-pricing-box.style_two .pricing-btn-shap {
     display: none;
 }
 
-.pricing-area .single-pricing-box.style_two .pricing-button-shap{
+.pricing-area .single-pricing-box.style_two .pricing-button-shap {
     display: inline-block;
-} 
+}
 
-.pricing-area .single-pricing-box.style_two .single-pricing-content::before{
+.pricing-area .single-pricing-box.style_two .single-pricing-content::before {
     height: 100%;
-} 
+}
 
 .pricing-area .single-pricing-box .single-pricing-thumb img {
     width: 100%;
@@ -4839,55 +4870,55 @@ span.fill {
     transition: .9s;
 }
 
-.pricing-area .single-pricing-box:hover::before{
+.pricing-area .single-pricing-box:hover::before {
     background: #101010;
 }
 
-.pricing-area .single-pricing-box:hover::after{
+.pricing-area .single-pricing-box:hover::after {
     background: #101010;
 }
 
-.pricing-area .single-pricing-box:hover .pricing-inner-box::before{
+.pricing-area .single-pricing-box:hover .pricing-inner-box::before {
     background: #101010;
 }
 
-.pricing-area .single-pricing-box:hover .pricing-inner-box::after{
+.pricing-area .single-pricing-box:hover .pricing-inner-box::after {
     background: #101010;
 }
 
-.pricing-area .single-pricing-box:hover .pricing-button::before{
+.pricing-area .single-pricing-box:hover .pricing-button::before {
     width: 100%;
     opacity: 1;
     left: 0;
-} 
+}
 
-.pricing-area .single-pricing-box:hover .pricing-button a{
+.pricing-area .single-pricing-box:hover .pricing-button a {
     color: #fff;
 }
 
-.pricing-area .single-pricing-box:hover .single-pricing-content h3{
+.pricing-area .single-pricing-box:hover .single-pricing-content h3 {
     color: #fff;
 }
 
-.pricing-area .single-pricing-box:hover .single-pricing-content p{
+.pricing-area .single-pricing-box:hover .single-pricing-content p {
     color: #fff;
 }
 
-.pricing-area .single-pricing-box:hover .pricing-plan-list ul li{
+.pricing-area .single-pricing-box:hover .pricing-plan-list ul li {
     color: #fff;
 }
 
-.pricing-area .single-pricing-box:hover .pricing-btn-shap{
+.pricing-area .single-pricing-box:hover .pricing-btn-shap {
     display: none;
 }
 
-.pricing-area .single-pricing-box:hover .pricing-button-shap{
+.pricing-area .single-pricing-box:hover .pricing-button-shap {
     display: inline-block;
-} 
+}
 
-.pricing-area .single-pricing-box:hover .single-pricing-content::before{
+.pricing-area .single-pricing-box:hover .single-pricing-content::before {
     height: 100%;
-} 
+}
 
 .pricing-area.upper .single-pricing-box.style_two::before {
     background: inherit;
@@ -4927,7 +4958,7 @@ span.fill {
 }
 
 /*<!-- ============================================================== -->
-<!-- Arcke project-area Css -->
+<!-- Maratas project-area Css -->
 <!-- ============================================================== -->*/
 
 .project-area.one {
@@ -5006,8 +5037,9 @@ span.fill {
 }
 
 .project-area.one .project-content.style-one .project-button::before {
-    right: 77px!important;
+    right: 77px !important;
 }
+
 .project-area.one .project-content h4 {
     font-size: 14px;
     line-height: 32px;
@@ -5079,12 +5111,12 @@ span.fill {
     transition: .5s;
 }
 
-.project-area.one .single-project-box:hover .project-content{
+.project-area.one .single-project-box:hover .project-content {
     left: 0%;
     opacity: 1;
 }
 
-.project-area.one .single-project-box:hover .project-thumb::before{
+.project-area.one .single-project-box:hover .project-thumb::before {
     transform: scale(1);
 }
 
@@ -5109,7 +5141,8 @@ span.fill {
     animation: 1s 1.3s fadeInUp both;
 }
 
-.project-area.one .projects-btn a::after, .projects-btn a::before {
+.project-area.one .projects-btn a::after,
+.projects-btn a::before {
     position: absolute;
     content: "";
     transform: rotate(0);
@@ -5276,12 +5309,12 @@ span.fill {
     transition: .5s;
 }
 
-.project_area_five .single_project_box:hover::before{
+.project_area_five .single_project_box:hover::before {
     opacity: 1;
     transform: scale(1);
 }
 
-.project_area_five .single_project_box:hover .single_project_content{
+.project_area_five .single_project_box:hover .single_project_content {
     opacity: 1;
     transform: scale(1);
 }
@@ -5434,7 +5467,8 @@ span.fill {
     color: #101010;
 }
 
-.portfolio_area_three.upper .portfolio_nav ul li:hover, .portfolio_nav ul li.current_menu_item {
+.portfolio_area_three.upper .portfolio_nav ul li:hover,
+.portfolio_nav ul li.current_menu_item {
     color: #fff;
     background: #D9AB7A;
 }
@@ -5457,7 +5491,7 @@ span.fill {
     opacity: 0;
     transition: .5s;
     transform: scale(0);
-} 
+}
 
 .project_area_five.upper .single_project_button a {
     display: inline-block;
@@ -5471,7 +5505,7 @@ span.fill {
     transition: .5s;
 }
 
-.project_area_five.upper .single_project_box:hover::before{
+.project_area_five.upper .single_project_box:hover::before {
     opacity: 1;
     transform: scale(1);
 }
@@ -5481,7 +5515,7 @@ span.fill {
 
 
 /*<!-- ============================================================== -->
-<!-- Arcke call-do-action-area Css -->
+<!-- Maratas call-do-action-area Css -->
 <!-- ============================================================== -->*/
 
 .call-do-action-area {
@@ -5525,17 +5559,17 @@ span.fill {
     transition: .5s;
 }
 
-.call-do-action-area .call-do-action-button a:hover{
-    color: #101010 ;
+.call-do-action-area .call-do-action-button a:hover {
+    color: #101010;
 }
 
-.call-do-action-area .call-do-action-button a:hover::after{
+.call-do-action-area .call-do-action-button a:hover::after {
     transform: scale(1);
 }
 
 
 /*<!-- ============================================================== -->
-<!-- Arcke contact area Css -->
+<!-- Maratas contact area Css -->
 <!-- ============================================================== -->*/
 
 .contact_area_three {
@@ -5613,7 +5647,7 @@ span.fill {
     transition: .9s;
 }
 
-.contact_area_three .quote_button button:hover::before{
+.contact_area_three .quote_button button:hover::before {
     width: 100%;
     left: 0;
 }
@@ -5743,7 +5777,7 @@ span.fill {
     text-transform: uppercase;
 }
 
-.contact-area-inner .quote_button:hover::before{
+.contact-area-inner .quote_button:hover::before {
     opacity: 1;
     transform: scale(1);
 }
@@ -5757,7 +5791,7 @@ span.fill {
 }
 
 /*<!-- ============================================================== -->
-<!-- Arcke map-section Css -->
+<!-- Maratas map-section Css -->
 <!-- ============================================================== -->*/
 
 .map-section {
@@ -5771,7 +5805,7 @@ span.fill {
 }
 
 /*<!-- ============================================================== -->
-<!-- Arcke team-area Css -->
+<!-- Maratas team-area Css -->
 <!-- ============================================================== -->*/
 
 .team-area.one {
@@ -5807,7 +5841,7 @@ span.fill {
     left: 7%;
 }
 
-.team-area.one .team-shape{
+.team-area.one .team-shape {
     position: absolute;
     top: 15%;
     right: 7%;
@@ -5876,12 +5910,12 @@ span.fill {
     transition: .5s;
 }
 
-.team-area.one .single-team-box:hover{
+.team-area.one .single-team-box:hover {
     border: 1px solid #80684B;
     margin-top: -30px;
 }
 
-.team-area.one .single-team-box:hover .team-content{
+.team-area.one .single-team-box:hover .team-content {
     bottom: 20px;
     opacity: 1;
 }
@@ -5890,9 +5924,11 @@ span.fill {
 .team-area.one.upper {
     background: #fff;
 }
+
 .team-area.one.upper::before {
     background: url(../images/team/team-bg.png);
 }
+
 .team-area.one.upper .row.bt-bb::before {
     background: #E9EBEC;
 }
@@ -5996,20 +6032,20 @@ span.fill {
     font-weight: 400;
 }
 
-.team_area_five .team_single_box:hover{
+.team_area_five .team_single_box:hover {
     border-top: 2px solid #D9AB79;
     border-left: 2px solid #D9AB79;
     border-bottom: 2px solid #D9AB79;
 }
 
 .team_area_five .team_single_box .team_icon_list ul li a:hover {
-    color: #fff!important;
+    color: #fff !important;
     border: 1px solid #D2A776;
     background: #D2A776;
 }
 
 
-.team_area_five.upper{
+.team_area_five.upper {
     background: url(../images/team/team-6-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -6036,13 +6072,13 @@ span.fill {
     color: #101010;
 }
 
-.team_area_five.upper .team_single_box:hover{
+.team_area_five.upper .team_single_box:hover {
     border-top: 2px solid #D9AB7A;
     border-left: 1px solid #D9AB7A;
     border-bottom: 1px solid #D9AB7A;
 }
 
-.team_area_five.upper .team_single_box .team_icon_list ul li a:hover{
+.team_area_five.upper .team_single_box .team_icon_list ul li a:hover {
     background: #CDA374;
     border: 1px solid #CDA374;
     color: #fff;
@@ -6053,7 +6089,7 @@ span.fill {
 }
 
 /*<!-- ============================================================== -->
-<!-- Arcke team area inner page Css -->
+<!-- Maratas team area inner page Css -->
 <!-- ============================================================== -->*/
 
 .team-area-inner-page {
@@ -6165,26 +6201,26 @@ span.fill {
     display: inline-block;
 }
 
-.team-area-inner-page .single-team-inner-box:hover .team-inner-icon i{
+.team-area-inner-page .single-team-inner-box:hover .team-inner-icon i {
     background: #D9AB7A;
     color: #fff;
     border: 1px solid #D9AB7A;
 }
 
-.team-area-inner-page .single-team-inner-box:hover .team-inner-title h4::before{
+.team-area-inner-page .single-team-inner-box:hover .team-inner-title h4::before {
     background: #D9AB7A;
 }
 
-.team-area-inner-page .single-team-inner-box:hover .team-inner-icon-list{
+.team-area-inner-page .single-team-inner-box:hover .team-inner-icon-list {
     bottom: 30%;
     opacity: 1;
 }
 
-.team-area-inner-page .single-team-inner-box:hover .single-team-inner-thumb::before{
+.team-area-inner-page .single-team-inner-box:hover .single-team-inner-thumb::before {
     height: 100%;
-} 
+}
 
-.team-area-inner-page .single-team-inner-box .team-inner-icon-list ul li a:hover{
+.team-area-inner-page .single-team-inner-box .team-inner-icon-list ul li a:hover {
     background: #D7AB79;
     color: #fff;
 }
@@ -6311,11 +6347,11 @@ span.fill {
     font-size: 15px;
 }
 
-.team-area-seven .single-teams-boxs:hover::before{
+.team-area-seven .single-teams-boxs:hover::before {
     height: 100%;
 }
 
-.team-area-seven .single-teams-boxs:hover .single-teams-icon-list{
+.team-area-seven .single-teams-boxs:hover .single-teams-icon-list {
     opacity: 1;
     bottom: 40%;
 }
@@ -6328,12 +6364,12 @@ span.fill {
     border-bottom: 1px solid #D7AB79;
 }
 
-.team-area-seven .team-button a:hover::before{
-   transform: scale(1); 
+.team-area-seven .team-button a:hover::before {
+    transform: scale(1);
 }
 
 /*<!-- ============================================================== -->
-<!-- Arcke testimonial-area Css -->
+<!-- Maratas testimonial-area Css -->
 <!-- ============================================================== -->*/
 
 .testimonial-area.one {
@@ -6457,6 +6493,7 @@ span.fill {
 .testimonial-area.one.upper {
     background: url(../images/testimonial/testi-bg.jpg);
 }
+
 .testimonial-area.one.upper .testimonial-thumb img {
     width: 100%;
     margin-left: -50px;
@@ -6711,7 +6748,7 @@ span.fill {
     top: -30%;
 }
 
-.testimonial_area_five .owl-prev{
+.testimonial_area_five .owl-prev {
     display: inline-block;
     color: #fff;
     border-radius: 50%;
@@ -6735,7 +6772,7 @@ span.fill {
     border: inherit;
 }
 
-.testimonial_area_five .owl-prev:hover{
+.testimonial_area_five .owl-prev:hover {
     color: #fff;
     background: #D9AB7A;
 }
@@ -6829,13 +6866,13 @@ span.fill {
     color: #101010;
 }
 
-.testimonial-area-seven .single-testi-box:hover .single-testi-icon i{
+.testimonial-area-seven .single-testi-box:hover .single-testi-icon i {
     color: #101010;
 }
 
 
 /*<!-- ============================================================== -->
-<!-- Arcke video-area-seven Css -->
+<!-- Maratas video-area-seven Css -->
 <!-- ============================================================== -->*/
 
 .video-area-seven {
@@ -6930,7 +6967,7 @@ span.fill {
 }
 
 /*<!-- ============================================================== -->
-<!--  Arcke blog-area Css -->
+<!--  Maratas blog-area Css -->
 <!-- ============================================================== -->*/
 
 .blog-area.one {
@@ -6980,7 +7017,7 @@ span.fill {
     width: 100%;
 }
 
-.blog-area.one .blog-thumb{
+.blog-area.one .blog-thumb {
     position: relative;
     z-index: 1;
 }
@@ -7098,23 +7135,23 @@ span.fill {
     border: 1px solid #D9AA7C;
 }
 
-.blog-area.one .single-blog-box:hover .blog-button a::before{
+.blog-area.one .single-blog-box:hover .blog-button a::before {
     background: #D9AA7C;
 }
 
-.blog-area.one .single-blog-box:hover .blog-button a::after{
+.blog-area.one .single-blog-box:hover .blog-button a::after {
     background: #D9AA7C;
 }
 
-.blog-area.one .single-blog-box:hover .blog-button a{
+.blog-area.one .single-blog-box:hover .blog-button a {
     margin-left: 0px;
 }
 
-.blog-area.one .single-blog-box:hover .blog-thumb::before{
+.blog-area.one .single-blog-box:hover .blog-thumb::before {
     height: 100%;
 }
 
-.blog-area.one .blog-title h3 a:hover{
+.blog-area.one .blog-title h3 a:hover {
     color: #D7AB79;
     text-decoration: underline;
 }
@@ -7122,6 +7159,7 @@ span.fill {
 .blog-area.one.upper {
     background: #fff;
 }
+
 .blog-area.one.upper::before {
     left: 0;
     right: 0;
@@ -7131,9 +7169,11 @@ span.fill {
     background-size: cover;
     background-position: center center;
 }
+
 .blog-area.one.upper.grid {
     padding: 120px 0 55px;
 }
+
 .blog-area.one.upper .row.bd-tp::before {
     background: #E9EBEC;
 }
@@ -7253,7 +7293,7 @@ span.fill {
     height: 100%;
 }
 
-.single_blog_content h3 a:hover{
+.single_blog_content h3 a:hover {
     color: #D7AB79;
 }
 
@@ -7299,7 +7339,7 @@ span.fill {
     color: #999999;
     font-weight: 400;
     margin: 0 0 0;
-     transition: .5s;
+    transition: .5s;
 }
 
 .blog_area_five .single_blog_box .single_blogs_content h5 span {
@@ -7319,7 +7359,7 @@ span.fill {
     color: #ffffff;
     font-weight: 600;
     margin: 0 0 25px;
-     transition: .5s;
+    transition: .5s;
 }
 
 .blog_area_five .single_blog_box .single_blog_thumb {
@@ -7360,23 +7400,23 @@ span.fill {
     display: inline-block;
     color: #fff;
     margin-left: 25px;
-     transition: .5s;
+    transition: .5s;
 }
 
 .blog_area_five .single_blog_box:hover .blog_button a {
     margin-left: 0px;
 }
 
-.blog_area_five .single_blog_box:hover .blog_button a i{
+.blog_area_five .single_blog_box:hover .blog_button a i {
     margin-left: 5px;
     color: #D6AC7A;
 }
 
-.blog_area_five .single_blog_box .single_blogs_content h3 a:hover{
+.blog_area_five .single_blog_box .single_blogs_content h3 a:hover {
     color: #D6AC7A;
 }
 
-.blog_area_five .single_blog_box:hover .single_blog_thumb::before{
+.blog_area_five .single_blog_box:hover .single_blog_thumb::before {
     transform: scale(1);
 }
 
@@ -7551,30 +7591,30 @@ span.fill {
     margin-left: 20px;
 }
 
-.blog-area-seven .single-blog-box:hover .single-blog-content h3{
+.blog-area-seven .single-blog-box:hover .single-blog-content h3 {
     border-bottom: 1px solid #101010;
 }
 
-.blog-area-seven .single-blog-content h3 a:hover{
+.blog-area-seven .single-blog-content h3 a:hover {
     color: #D7AB79;
 }
 
-.blog-area-seven .blog-button a:hover::before{
+.blog-area-seven .blog-button a:hover::before {
     width: 100%;
     left: 0;
 }
 
-.blog-area-seven .single-blog-box:hover .single-blog-tmb::before{
+.blog-area-seven .single-blog-box:hover .single-blog-tmb::before {
     left: 0;
     width: 100%;
 }
 
-.blog-area-seven .single-blog-box:hover .single-blog-content::before{
+.blog-area-seven .single-blog-box:hover .single-blog-content::before {
     height: 100%;
 }
 
 /*<!-- ============================================================== -->
-<!-- Arcke blog-details-area Css -->
+<!-- Maratas blog-details-area Css -->
 <!-- ============================================================== -->*/
 
 .blog-details-area {
@@ -7668,7 +7708,7 @@ span.fill {
     margin: 0 0 0;
 }
 
-.blog-details-area .single-blog-social-icon ul{
+.blog-details-area .single-blog-social-icon ul {
     display: inline-block;
 }
 
@@ -7959,7 +7999,7 @@ input.src-input-box::placeholder {
 }
 
 .catagory-item ul li {
-    border-bottom: 1px solid rgba(23,23,23,0.10196078431372549);
+    border-bottom: 1px solid rgba(23, 23, 23, 0.10196078431372549);
     display: block;
 }
 
@@ -8060,7 +8100,7 @@ input.src-input-box::placeholder {
     width: 42px;
     line-height: 42px;
     text-align: center;
-    border: 1px solid rgba(33,33,33,0.1);
+    border: 1px solid rgba(33, 33, 33, 0.1);
 }
 
 .pagination a:hover {
@@ -8070,7 +8110,7 @@ input.src-input-box::placeholder {
 }
 
 /*<!-- ============================================================== -->
-<!-- Arcke cascading-area Css -->
+<!-- Maratas cascading-area Css -->
 <!-- ============================================================== -->*/
 
 .cascading-area {
@@ -8228,17 +8268,17 @@ input.src-input-box::placeholder {
     transition: .5s;
 }
 
-.cascading-area .cascadings-inners-boxs:hover .cascading-inner-box-number h2{
+.cascading-area .cascadings-inners-boxs:hover .cascading-inner-box-number h2 {
     opacity: 1;
     color: #D7AB79;
 }
 
-.cascading-area .cascadings-inners-boxs:hover .cascading-inner-button::after{
+.cascading-area .cascadings-inners-boxs:hover .cascading-inner-button::after {
     width: 100%;
     left: 0;
 }
 
-.cascading-area .cascading-inner-box:hover .cascading-thumb::before{
+.cascading-area .cascading-inner-box:hover .cascading-thumb::before {
     transform: scale(1);
 }
 
@@ -8280,17 +8320,17 @@ input.src-input-box::placeholder {
     color: #101010;
 }
 
-.cascading-area.upper .cascadings-inners-boxs:hover .cascading-inner-button{
+.cascading-area.upper .cascadings-inners-boxs:hover .cascading-inner-button {
     border: 1px solid #D7AB79;
 }
 
-.cascading-area.upper .cascadings-inners-boxs:hover .cascading-inner-button a{
+.cascading-area.upper .cascadings-inners-boxs:hover .cascading-inner-button a {
     color: #fff;
 }
 
 
 /*<!-- ============================================================== -->
-<!-- Arcke horizontal-area Css -->
+<!-- Maratas horizontal-area Css -->
 <!-- ============================================================== -->*/
 
 .horizontal-area {
@@ -8360,7 +8400,7 @@ input.src-input-box::placeholder {
     padding: 25px 25px;
     transform: scale(0);
     transition: .5s;
-    background: rgba(17,17,17,.9);
+    background: rgba(17, 17, 17, .9);
 }
 
 .horizontal-area .single-horizontal-title h3 {
@@ -8450,29 +8490,29 @@ input.src-input-box::placeholder {
     transition: .5s;
 }
 
-.horizontal-area .horizontal-btn:hover a{
+.horizontal-area .horizontal-btn:hover a {
     color: #101010;
 }
 
-.horizontal-area .horizontal-btn:hover::after{
+.horizontal-area .horizontal-btn:hover::after {
     width: 100%;
     left: 0;
 }
 
-.horizontal-area .single-horizontal-box:hover .horizontal-content{
+.horizontal-area .single-horizontal-box:hover .horizontal-content {
     transform: scale(1);
 }
 
-.horizontal-area .horizontal-button a:hover{
+.horizontal-area .horizontal-button a:hover {
     color: #101010;
 }
 
-.horizontal-area .horizontal-button a:hover::before{
+.horizontal-area .horizontal-button a:hover::before {
     transform: scale(1);
 }
 
 /*<!-- ============================================================== -->
-<!-- Arcke horizontal-slider-area Css -->
+<!-- Maratas horizontal-slider-area Css -->
 <!-- ============================================================== -->*/
 
 .horizontal-slider-area {
@@ -8587,7 +8627,7 @@ input.src-input-box::placeholder {
 
 
 /*<!-- ============================================================== -->
-<!-- Arcke portfolio-masonary-area Css -->
+<!-- Maratas portfolio-masonary-area Css -->
 <!-- ============================================================== -->*/
 
 .portfolio-masonary-area {
@@ -8639,7 +8679,7 @@ input.src-input-box::placeholder {
     bottom: -100px;
     opacity: 0;
     left: 15px;
-    background: rgba(17,17,17,.9);
+    background: rgba(17, 17, 17, .9);
     width: 80%;
     padding: 42px 40px 48px;
     transition: .9s;
@@ -8722,26 +8762,26 @@ input.src-input-box::placeholder {
     transition: .5s;
 }
 
-.portfolio-masonary-area .portfolio-masonary-btn:hover a{
+.portfolio-masonary-area .portfolio-masonary-btn:hover a {
     color: #101010;
 }
 
-.portfolio-masonary-area .portfolio-masonary-btn:hover::after{
+.portfolio-masonary-area .portfolio-masonary-btn:hover::after {
     width: 100%;
     left: 0;
 }
 
-.portfolio-masonary-area .single-portfolio-masonary-box:hover .portfolio-masonary-content{
+.portfolio-masonary-area .single-portfolio-masonary-box:hover .portfolio-masonary-content {
     bottom: 15px;
     opacity: 1;
 }
 
-.portfolio-masonary-area .single-portfolio-masonary-box:hover .single-portfolio-thumn::before{
+.portfolio-masonary-area .single-portfolio-masonary-box:hover .single-portfolio-thumn::before {
     bottom: 15px;
     height: 100%;
 }
 
- .portfolio-masonary-area.upper {
+.portfolio-masonary-area.upper {
     background: transparent;
 }
 
@@ -8853,7 +8893,7 @@ input.src-input-box::placeholder {
 .portfolio_nav ul li.current_menu_item {
     color: #D7AB79;
     background: transparent;
-    
+
 }
 
 .portfolio-minimal-area .case-study-single-box {
@@ -8911,19 +8951,19 @@ input.src-input-box::placeholder {
     top: -35px;
 }
 
-.portfolio-minimal-area .case-study-title.style2 h3 a:hover{
+.portfolio-minimal-area .case-study-title.style2 h3 a:hover {
     color: #D7AB79;
-} 
+}
 
-.portfolio-minimal-area .case-title.style2 span a:hover{
+.portfolio-minimal-area .case-title.style2 span a:hover {
     color: #fff;
-} 
+}
 
-.portfolio-minimal-area .case-study-icon i:hover{
+.portfolio-minimal-area .case-study-icon i:hover {
     background: #fff;
 }
 
-.portfolio-minimal-area .case-study-single-box:hover .case-study-thumb2::before{
+.portfolio-minimal-area .case-study-single-box:hover .case-study-thumb2::before {
     transform: scale(1);
 }
 
@@ -8962,7 +9002,8 @@ input.src-input-box::placeholder {
     background: #fff;
 }
 
-.portfolio-minimal-area.upper .portfolio_nav ul li:hover, .portfolio_nav ul li.current_menu_item {
+.portfolio-minimal-area.upper .portfolio_nav ul li:hover,
+.portfolio_nav ul li.current_menu_item {
     color: #D7AB79;
     background: transparent;
 }
@@ -9049,7 +9090,7 @@ input.src-input-box::placeholder {
 .portfolio_nav ul li.current_menu_item {
     color: #D7AB79;
     background: transparent;
-    
+
 }
 
 .portfolio-showcase-area .case-study-single-box {
@@ -9061,7 +9102,7 @@ input.src-input-box::placeholder {
 }
 
 .portfolio-showcase-area .case-study-contents {
-    background: rgba(17,17,17,.9);
+    background: rgba(17, 17, 17, .9);
     padding: 5px 30px 40px;
     position: absolute;
     width: 95%;
@@ -9164,21 +9205,21 @@ input.src-input-box::placeholder {
     transition: .5s;
 }
 
-.portfolio-showcase-area .showcase-view-btn a:hover{
-    color: #101010!important;
+.portfolio-showcase-area .showcase-view-btn a:hover {
+    color: #101010 !important;
 }
 
-.portfolio-showcase-area .showcase-view-btn a:hover::before{
+.portfolio-showcase-area .showcase-view-btn a:hover::before {
     width: 100%;
     left: 0;
 }
 
-.portfolio-showcase-area .case-study-single-box:hover .case-study-contents{
+.portfolio-showcase-area .case-study-single-box:hover .case-study-contents {
     opacity: 1;
     bottom: 0px;
 }
 
-.portfolio-showcase-area .showcase-button:hover a{
+.portfolio-showcase-area .showcase-button:hover a {
     color: #fff;
 }
 
@@ -9221,12 +9262,12 @@ input.src-input-box::placeholder {
     text-align: left;
 }
 
-.portfolio-minimal-area.seven .portfolio_nav ul li:hover{
+.portfolio-minimal-area.seven .portfolio_nav ul li:hover {
     color: #D8AB7A;
 }
 
 /*====================================================
---< Arcke portfolio-details-area Css -->
+--< Maratas portfolio-details-area Css -->
 ======================================================*/
 
 .portfolio-details-area {
@@ -9271,7 +9312,7 @@ input.src-input-box::placeholder {
     box-shadow: inherit;
 }
 
- .portfolio-details-area .catagories-body ul li {
+.portfolio-details-area .catagories-body ul li {
     font-size: 20px;
 }
 
@@ -9285,7 +9326,7 @@ input.src-input-box::placeholder {
     font-weight: 600;
 }
 
- .portfolio-details-area .catagories-body ul li span {
+.portfolio-details-area .catagories-body ul li span {
     font-size: 18px;
     font-weight: 300;
     padding-left: 20px;
@@ -9315,14 +9356,14 @@ input.src-input-box::placeholder {
     height: 35px;
     text-align: center;
     line-height: 37px;
-    transition:.5s;
-    border:1px solid #333333;
+    transition: .5s;
+    border: 1px solid #333333;
 }
 
-.portfolio-details-area .catagories-icon p a:hover{
+.portfolio-details-area .catagories-icon p a:hover {
     color: #333333;
     background: #fff;
-    border:1px solid #333333;
+    border: 1px solid #333333;
 }
 
 .portfolio-details-area .sideber-content {
@@ -9350,7 +9391,7 @@ input.src-input-box::placeholder {
 }
 
 /*<!-- ============================================================== -->
-<!-- Arcke spilt-slider-area Css -->
+<!-- Maratas spilt-slider-area Css -->
 <!-- ============================================================== -->*/
 
 .spilt-slider-area {
@@ -9500,7 +9541,7 @@ input.src-input-box::placeholder {
 
 
 /*<!-- ============================================================== -->
-<!-- Arcke brand-area Css -->
+<!-- Maratas brand-area Css -->
 <!-- ============================================================== -->*/
 
 .brand-area.one {
@@ -9545,7 +9586,7 @@ input.src-input-box::placeholder {
     z-index: 1;
 }
 
-.brand-area.one .brand-title h4 span{
+.brand-area.one .brand-title h4 span {
     color: #d8ab7a;
 }
 
@@ -9577,7 +9618,7 @@ input.src-input-box::placeholder {
 
 .brand-area.seven .single-brand {
     text-align: center;
-    transition: .5s;  
+    transition: .5s;
 }
 
 .brand-area.seven .single-brand .brand-thumb {
@@ -9590,12 +9631,12 @@ input.src-input-box::placeholder {
     transition: .5s;
 }
 
-.brand-area.seven .single-brand:hover .brand-thumb img{
+.brand-area.seven .single-brand:hover .brand-thumb img {
     filter: brightness(0) invert(0);
 }
 
 /*<!-- ============================================================== -->
-<!-- Arcke shop-area CSS -->
+<!-- Maratas shop-area CSS -->
 <!-- ============================================================== -->*/
 
 .shop-area {
@@ -9764,26 +9805,26 @@ input.src-input-box::placeholder {
     transition: .5s;
 }
 
- .shop-area .cart-button a:hover::before {
+.shop-area .cart-button a:hover::before {
     transform: scale(1);
 }
 
-.shop-area .single-shop-box:hover .cart-button{
+.shop-area .single-shop-box:hover .cart-button {
     bottom: 30%;
     opacity: 1;
 }
 
-.shop-area .single-shop-box:hover .single-shop-thumb::before{
+.shop-area .single-shop-box:hover .single-shop-thumb::before {
     height: 100%;
 }
 
-.shoping-items-button a:hover::after{
+.shoping-items-button a:hover::after {
     left: 0;
     width: 100%;
     opacity: 1;
 }
 
-.shoping-items-button a:hover{
+.shoping-items-button a:hover {
     color: #101010;
     border: 1px solid #fff;
 }
@@ -9933,7 +9974,7 @@ input.src-input-box::placeholder {
     font-size: 12px;
 }
 
-.shop-area .shop-categori-list ul li:hover{
+.shop-area .shop-categori-list ul li:hover {
     color: #D7AB79;
 }
 
@@ -9987,7 +10028,7 @@ input.src-input-box::placeholder {
     transition: .5s;
 }
 
-.shop-area .tag-categori-list ul li a:hover{
+.shop-area .tag-categori-list ul li a:hover {
     color: #D7AB79;
 }
 
@@ -10123,7 +10164,7 @@ Shop dtls Right
     margin: 0 0 7px;
 }
 
-.shop-details-area .category-title h4 span{
+.shop-details-area .category-title h4 span {
     color: #616161;
 }
 
@@ -10273,7 +10314,7 @@ Shop dtls Right
     font-weight: 400;
 }
 
-.shop-details-area td.table-title span{
+.shop-details-area td.table-title span {
     color: #d8ab7a;
 }
 
@@ -10294,7 +10335,7 @@ Shop dtls Right
     z-index: 1;
 }
 
-.shop-details-area .appoinment-tab .tabs li a:hover{
+.shop-details-area .appoinment-tab .tabs li a:hover {
     color: #D7AB79;
 }
 
@@ -10515,22 +10556,22 @@ Shop dtls Right
     transform: scale(1);
 }
 
-.shop-details-area .single-shop-box:hover .cart-button{
+.shop-details-area .single-shop-box:hover .cart-button {
     bottom: 30%;
     opacity: 1;
 }
 
-.shop-details-area .single-shop-box:hover .single-shop-thumb::before{
+.shop-details-area .single-shop-box:hover .single-shop-thumb::before {
     height: 100%;
 }
 
-.shop-details-area .shoping-items-button a:hover::after{
+.shop-details-area .shoping-items-button a:hover::after {
     left: 0;
     width: 100%;
     opacity: 1;
 }
 
-.shop-details-area .shoping-items-button a:hover{
+.shop-details-area .shoping-items-button a:hover {
     color: #101010;
     border: 1px solid #fff;
 }
@@ -10626,7 +10667,7 @@ Shop dtls Right
 
 
 /*<!-- ============================================================== -->
-<!--  Arcke footer-section CSS -->
+<!--  Maratas footer-section CSS -->
 <!-- ============================================================== -->*/
 
 .footer-section {
@@ -10760,7 +10801,7 @@ button.btns::before {
     position: absolute;
     content: "";
     top: 0;
-    right:0 ;
+    right: 0;
     height: 100%;
     width: 0%;
     background: #D9AB7A;
@@ -10768,11 +10809,11 @@ button.btns::before {
     transition: .5s;
 }
 
-button.btns:hover{
-   border: 1px solid #D9AB7A; 
+button.btns:hover {
+    border: 1px solid #D9AB7A;
 }
 
-button.btns:hover::before{
+button.btns:hover::before {
     width: 100%;
     left: 0;
 }
@@ -10851,7 +10892,7 @@ button.btns:hover::before{
     transition: .5s;
 }
 
-.footer-section.upper button.btns:hover::before{
+.footer-section.upper button.btns:hover::before {
     width: 100%;
     left: 0;
 }
@@ -10890,7 +10931,7 @@ button.btns:hover::before{
     padding: 120px 0 50px;
 }
 
-.footer_section_three  .widgets-company-info-box {
+.footer_section_three .widgets-company-info-box {
     text-align: left;
 }
 
@@ -11021,7 +11062,7 @@ button.btns:hover::before{
 }
 
 .footer_section_three.upper .widgets-company-info p {
-     color: #515151;
+    color: #515151;
 }
 
 .footer_section_three.upper .widgets-company-info h5 {
@@ -11087,7 +11128,7 @@ button.btns:hover::before{
     margin: 0 0 0;
 }
 
-.footer_section_five .subscribe-form{
+.footer_section_five .subscribe-form {
     position: relative;
     z-index: 1;
 }
@@ -11211,7 +11252,7 @@ button.btns:hover::before{
     color: #D2A776;
 }
 
-.footer_section_five .widgets-company-icon-list ul li a:hover{
+.footer_section_five .widgets-company-icon-list ul li a:hover {
     background: #D2A776;
 }
 
@@ -11273,7 +11314,7 @@ button.btns:hover::before{
     margin: 0 0 20px;
 }
 
- .footer-area-seven .form_box input {
+.footer-area-seven .form_box input {
     width: 100%;
     height: 55px;
     padding-left: 0px;
@@ -11288,12 +11329,12 @@ button.btns:hover::before{
     border-right: inherit;
 }
 
- .footer-area-seven .row.mg-tp.align-items-center {
+.footer-area-seven .row.mg-tp.align-items-center {
     border-top: 1px solid #282828;
     margin-top: 110px;
 }
 
- .footer-area-seven .copy-rights h4 {
+.footer-area-seven .copy-rights h4 {
     font-size: 15px;
     line-height: 26px;
     color: #999999;
@@ -11302,11 +11343,11 @@ button.btns:hover::before{
     text-align: center;
 }
 
-.footer-area-seven .widgets-company-icon-list ul li:hover{
+.footer-area-seven .widgets-company-icon-list ul li:hover {
     color: #D9AB7A;
 }
 
-.footer-area-seven .footer-icon-list ul li a:hover{
+.footer-area-seven .footer-icon-list ul li a:hover {
     color: #fff;
     background: #D9AB7A;
 }
@@ -11331,13 +11372,13 @@ button.btns:hover::before{
     transition: all 200ms linear !important;
 }
 
-  .prgoress_indicator.active-progress {
+.prgoress_indicator.active-progress {
     opacity: 1;
     visibility: visible;
     transform: translateY(0) !important;
-  }
+}
 
-  .prgoress_indicator::after {
+.prgoress_indicator::after {
     position: absolute;
     content: "\f106";
     font-family: "Font Awesome 5 Free";
@@ -11378,19 +11419,20 @@ button.btns:hover::before{
     z-index: 2;
     transition: all 200ms linear !important;
 }
-  .prgoress_indicator:hover ::after {
+
+.prgoress_indicator:hover ::after {
     color: var(--primary-color-one);
-  }
-  
-  .prgoress_indicator:hover ::before {
+}
+
+.prgoress_indicator:hover ::before {
     opacity: 1;
-  }
+}
 
-  .prgoress_indicator svg path {
+.prgoress_indicator svg path {
     fill: none;
-  }
+}
 
- .prgoress_indicator svg.progress-circle path {
+.prgoress_indicator svg.progress-circle path {
     stroke: #CDA373;
     stroke-width: 4;
     box-sizing: border-box;
@@ -11775,32 +11817,35 @@ button.btns:hover::before{
   Search Popup
 ====================================================================
 ***/
-.search-popup{
-  position: fixed;
-  left: 0;
-  top: 0;
-  height: 100vh;
-  width: 100%;
-  z-index: 99999;
-  margin-top: -540px;
-  transform: translateY(-100%);
-  background-color: rgba(0,0,0,0.90);
+.search-popup {
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100vh;
+    width: 100%;
+    z-index: 99999;
+    margin-top: -540px;
+    transform: translateY(-100%);
+    background-color: rgba(0, 0, 0, 0.90);
     -webkit-transition: all 500ms cubic-bezier(0.860, 0.000, 0.070, 1.000);
     -moz-transition: all 500ms cubic-bezier(0.860, 0.000, 0.070, 1.000);
     -o-transition: all 500ms cubic-bezier(0.860, 0.000, 0.070, 1.000);
-    transition: all 1500ms cubic-bezier(0.860, 0.000, 0.070, 1.000); /* easeInOutQuint */
+    transition: all 1500ms cubic-bezier(0.860, 0.000, 0.070, 1.000);
+    /* easeInOutQuint */
     -webkit-transition-timing-function: cubic-bezier(0.860, 0.000, 0.070, 1.000);
     -moz-transition-timing-function: cubic-bezier(0.860, 0.000, 0.070, 1.000);
     -o-transition-timing-function: cubic-bezier(0.860, 0.000, 0.070, 1.000);
-    transition-timing-function: cubic-bezier(0.860, 0.000, 0.070, 1.000); /* easeInOutQuint */
+    transition-timing-function: cubic-bezier(0.860, 0.000, 0.070, 1.000);
+    /* easeInOutQuint */
 }
 
-.search-popup{
-  width: 100%;
+.search-popup {
+    width: 100%;
 }
-.search-active .search-popup{
-  transform: translateY(0%);
-  margin-top: 0;
+
+.search-active .search-popup {
+    transform: translateY(0%);
+    margin-top: 0;
 }
 
 .search-box-btn.search-box-outer {
@@ -11861,7 +11906,7 @@ button.btns:hover::before{
 }
 
 .hendre_nav_manu.style_two .search-box-btn.search-box-outer i {
-    color: #333!important;
+    color: #333 !important;
 }
 
 .sticky-nav .search-box-btn.search-box-outer {
@@ -11870,11 +11915,13 @@ button.btns:hover::before{
     right: -50px;
     top: 33px;
 }
+
 .sticky-nav .search-box-btn.search-box-outer i {
     color: #fff;
     position: relative;
     left: 40px;
 }
+
 .search-popup .close-search {
     position: absolute;
     left: 0;
@@ -11887,7 +11934,7 @@ button.btns:hover::before{
     background-color: #D7AB79;
     width: 70px;
     cursor: pointer;
-    box-shadow: 0 0 10px rgba(0,0,0,0.05);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
     border-bottom: 3px solid #ffffff;
     -webkit-transition: all 500ms ease;
     -moz-transition: all 500ms ease;
@@ -11900,6 +11947,7 @@ button.btns:hover::before{
     line-height: 70px;
     text-align: center;
 }
+
 .search-popup .close-search i {
     position: relative;
     height: 70px;
@@ -11911,91 +11959,95 @@ button.btns:hover::before{
     text-align: center;
 }
 
-.search-active .search-popup .close-search{
-  visibility: visible;
-  opacity: 1;
-  top: 50%;
-  -webkit-transition-delay: 1500ms;
-  -moz-transition-delay: 1500ms;
-  -ms-transition-delay: 1500ms;
-  -o-transition-delay: 1500ms;
-  transition-delay: 1500ms;
+.search-active .search-popup .close-search {
+    visibility: visible;
+    opacity: 1;
+    top: 50%;
+    -webkit-transition-delay: 1500ms;
+    -moz-transition-delay: 1500ms;
+    -ms-transition-delay: 1500ms;
+    -o-transition-delay: 1500ms;
+    transition-delay: 1500ms;
 }
 
-.search-popup form{
-  position: absolute;
-  max-width: 700px;
-  top: 50%;
-  left: 15px;
-  right: 15px;
-  margin:-35px auto 0;
-  transform: scaleX(0);
-  transform-origin: center;
-  background-color: #111111;
-  -webkit-transition: all 300ms ease;
-  -moz-transition: all 300ms ease;
-  -ms-transition: all 300ms ease;
-  -o-transition: all 300ms ease;
-  transition: all 300ms ease;
+.search-popup form {
+    position: absolute;
+    max-width: 700px;
+    top: 50%;
+    left: 15px;
+    right: 15px;
+    margin: -35px auto 0;
+    transform: scaleX(0);
+    transform-origin: center;
+    background-color: #111111;
+    -webkit-transition: all 300ms ease;
+    -moz-transition: all 300ms ease;
+    -ms-transition: all 300ms ease;
+    -o-transition: all 300ms ease;
+    transition: all 300ms ease;
 }
 
-.search-active .search-popup form{
-  transform: scaleX(1);
-  -webkit-transition-delay: 1200ms;
-  -moz-transition-delay: 1200ms;
-  -ms-transition-delay: 1200ms;
-  -o-transition-delay: 1200ms;
-  transition-delay: 1200ms;
+.search-active .search-popup form {
+    transform: scaleX(1);
+    -webkit-transition-delay: 1200ms;
+    -moz-transition-delay: 1200ms;
+    -ms-transition-delay: 1200ms;
+    -o-transition-delay: 1200ms;
+    transition-delay: 1200ms;
 }
 
-.search-popup .form-group{
-  position:relative;
-  margin:0px; 
-  overflow: hidden;
+.search-popup .form-group {
+    position: relative;
+    margin: 0px;
+    overflow: hidden;
 }
-.search-popup .close-search.style-two{
-  position: absolute;
-  right: 25px;
-  left: auto;
-  color:#ffffff;
-  width:auto;
-  height:auto;
-  top:25px;
-  margin:0px;
-  border:none;
-  background:none !important;
-  box-shadow:none !important;
-  -webkit-transition:all 500ms ease;
-  -moz-transition:all 500ms ease;
-  -ms-transition:all 500ms ease;
-  -o-transition:all 500ms ease;
-  transition:all 500ms ease;
+
+.search-popup .close-search.style-two {
+    position: absolute;
+    right: 25px;
+    left: auto;
+    color: #ffffff;
+    width: auto;
+    height: auto;
+    top: 25px;
+    margin: 0px;
+    border: none;
+    background: none !important;
+    box-shadow: none !important;
+    -webkit-transition: all 500ms ease;
+    -moz-transition: all 500ms ease;
+    -ms-transition: all 500ms ease;
+    -o-transition: all 500ms ease;
+    transition: all 500ms ease;
 }
 
 .search-popup .close-search.style-two i {
     font-size: 20px;
     color: #fff;
 }
+
 .search-popup .form-group input[type="text"],
-.search-popup .form-group input[type="search"]{
-  position:relative;
-  display:block;
-  font-size:18px;
-  line-height: 50px;
-  color:#000000;
-  height:70px;
-  width:100%;
-  padding: 10px 30px;
-  background-color: #ffffff;
-  -webkit-transition:all 500ms ease;
-  -moz-transition:all 500ms ease;
-  -ms-transition:all 500ms ease;
-  -o-transition:all 500ms ease;
-  transition:all 500ms ease;
-  font-weight:500;
-  text-transform:capitalize;
+.search-popup .form-group input[type="search"] {
+    position: relative;
+    display: block;
+    font-size: 18px;
+    line-height: 50px;
+    color: #000000;
+    height: 70px;
+    width: 100%;
+    padding: 10px 30px;
+    background-color: #ffffff;
+    -webkit-transition: all 500ms ease;
+    -moz-transition: all 500ms ease;
+    -ms-transition: all 500ms ease;
+    -o-transition: all 500ms ease;
+    transition: all 500ms ease;
+    font-weight: 500;
+    text-transform: capitalize;
 }
-.search-popup .form-group input[type="submit"], .search-popup .form-group button {
+
+.search-popup .form-group input[type="submit"],
+.search-popup .form-group button {
     position: absolute;
     right: 30px;
     top: 0px;
@@ -12016,13 +12068,13 @@ button.btns:hover::before{
 }
 
 .search-popup .form-group input[type="submit"]:hover,
-.search-popup .form-group button:hover{
-  color: #000000;
+.search-popup .form-group button:hover {
+    color: #000000;
 }
 
 .search-popup input::placeholder,
-.search-popup textarea::placeholder{
-  color:#000000;
+.search-popup textarea::placeholder {
+    color: #000000;
 }
 
 
@@ -12230,14 +12282,14 @@ button.btns:hover::before{
     align-items: center;
     -ms-flex-pack: distribute;
     justify-content: space-around;
-    gap:0px;
+    gap: 0px;
     min-width: 100%;
     -webkit-animation: scroll 30s linear infinite;
     animation: scroll 30s linear infinite;
 }
 
 .tag-area.one marquee:last-child {
-    margin-right:0px;
+    margin-right: 0px;
 }
 
 .tag-area.one marquee:last-child::before {
@@ -12249,30 +12301,33 @@ button.btns:hover::before{
     margin-right: 6px;
 }
 
-  @-webkit-keyframes scroll {
+@-webkit-keyframes scroll {
     0% {
-      -webkit-transform: translateX(0);
-      transform: translateX(0);
+        -webkit-transform: translateX(0);
+        transform: translateX(0);
     }
+
     100% {
-      -webkit-transform: translateX(calc(-100% - var(--gap)));
-      transform: translateX(calc(-100% - var(--gap)));
+        -webkit-transform: translateX(calc(-100% - var(--gap)));
+        transform: translateX(calc(-100% - var(--gap)));
     }
-  }
-  @keyframes scroll {
+}
+
+@keyframes scroll {
     0% {
-      -webkit-transform: translateX(0);
-      transform: translateX(0);
+        -webkit-transform: translateX(0);
+        transform: translateX(0);
     }
+
     100% {
-      -webkit-transform: translateX(calc(-100% - var(--gap)));
-      transform: translateX(calc(-100% - var(--gap)));
+        -webkit-transform: translateX(calc(-100% - var(--gap)));
+        transform: translateX(calc(-100% - var(--gap)));
     }
-  }
+}
 
 
 /*<!-- ============================================================== -->
-<!-- Arcke copyright-area Css -->
+<!-- Maratas copyright-area Css -->
 <!-- ============================================================== -->*/
 
 .copyright-area {
@@ -12336,9 +12391,9 @@ button.btns:hover::before{
     transition: .5s;
 }
 
-.copyright-area.upper .copyright-icon-list ul li a:hover{
-   color: #fff;
-    background: #D7AB79; 
+.copyright-area.upper .copyright-icon-list ul li a:hover {
+    color: #fff;
+    background: #D7AB79;
 }
 
 
@@ -12349,3 +12404,95 @@ button.btns:hover::before{
 
 
 
+
+/*-------------------------------------------------------
+   Grid Background Implementation
+---------------------------------------------------------*/
+body {
+    background-color: #111111;
+    /* Temel koyu arka plan */
+}
+
+body::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image:
+        linear-gradient(rgba(255, 255, 255, 0.008) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255, 255, 255, 0.008) 1px, transparent 1px);
+    background-size: 60px 60px;
+    z-index: -1;
+    pointer-events: none;
+}
+
+body::after {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image:
+        linear-gradient(rgba(255, 255, 255, 0.015) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255, 255, 255, 0.015) 1px, transparent 1px);
+    background-size: 300px 300px;
+    z-index: -1;
+    pointer-events: none;
+}
+
+/* Bölüm arka planlarını şeffaflaştırarak gridin altta kalmasını sağlıyoruz */
+.feature-area,
+.about-area,
+.counter-area,
+.service-area,
+.project-area,
+.tag-area,
+.team-area,
+.testimonial-area,
+.blog-area,
+.brand-area,
+.footer-section {
+    background-color: transparent !important;
+}
+
+
+
+
+
+
+/* Testimonial Favicon Icon Fix */
+.testimonial-area.one .testimonial-tmb img {
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    object-fit: contain;
+    background: #fff;
+    padding: 5px;
+    border: 1px solid #D7AB79;
+}
+
+/* About Area Simplification */
+.about-area.one {
+    padding: 100px 0 80px !important;
+}
+
+.about-area.one::before {
+    display: none !important;
+}
+
+.about-area.one .about-button {
+    top: 0 !important;
+    text-align: left !important;
+}
+
+.about-area.one .about-button a {
+    padding: 12px 35px !important;
+}
+
+.about-area.one .about-button a::before,
+.about-area.one .about-button a::after {
+    display: none !important;
+}
